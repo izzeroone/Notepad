@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotePad++", "NotePad++\NotePad++.csproj", "{0C4DBD48-F6C4-4A32-849D-60D1F0BDFF22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyTextBox", "MyTextBox\MyTextBox\MyTextBox.csproj", "{B7F42741-B1D7-4E36-9E43-5F74674E92E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4DBD48-F6C4-4A32-849D-60D1F0BDFF22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4DBD48-F6C4-4A32-849D-60D1F0BDFF22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4DBD48-F6C4-4A32-849D-60D1F0BDFF22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4DBD48-F6C4-4A32-849D-60D1F0BDFF22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F42741-B1D7-4E36-9E43-5F74674E92E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F42741-B1D7-4E36-9E43-5F74674E92E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F42741-B1D7-4E36-9E43-5F74674E92E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F42741-B1D7-4E36-9E43-5F74674E92E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
